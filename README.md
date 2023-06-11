@@ -6,8 +6,8 @@ This mod is forged in the hellfires of spite.
 Again, just like in Thaumic Insurgence I'd also like to take this line to extend my thanks to the Arcana team for their lovely textures and just amazing mod in general, thank you Arcana Dev Team for allowing the use of Arcana assets except the lore!
 Specificially thank you to Ibanplay for the lovely textures! Thank you for the good work sir!
 
-If you have issues with this mod, post them here: https://github.com/Alastors/thaumicinsurgence/issues
-Please specify which version and which mod you're using and where you got it please!!! <3
+If you have issues with this mod, post them here: https://github.com/Alastors/Botanic-Thaumaturgy/issues
+Please specify which version of the mod that you're using and where you got it please!!! <3
 (And if you're reporting an issue and coming from GTNH, please specify that as well!)
 
 
