@@ -1,6 +1,6 @@
 #
-#Sat Jun 10 21:20:34 EDT 2023
-files.0=VersionInfo.java
-replacements.GRADLETOKEN_VERSION=0.2.4.dirty
-replacements.GRADLETOKEN_MODID=botanicthaumaturgy
+#Sat Jun 10 23:22:00 EDT 2023
 replacements.GRADLETOKEN_MODNAME=Botanic Thaumaturgy
+replacements.GRADLETOKEN_VERSION=28cf889.dirty
+files.0=VersionInfo.java
+replacements.GRADLETOKEN_MODID=botanicthaumaturgy

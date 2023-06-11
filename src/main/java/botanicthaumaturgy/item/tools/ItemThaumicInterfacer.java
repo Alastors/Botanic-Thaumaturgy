@@ -28,7 +28,7 @@ public class ItemThaumicInterfacer extends Item {
 
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconRegister ir) {
-        this.itemIcon = ir.registerIcon("botanicthaumaturgy:silverwoodfilter");
+        this.itemIcon = ir.registerIcon("botanicthaumaturgy:arcanium_filter");
     }
 
     @SideOnly(Side.CLIENT)
@@ -38,7 +38,7 @@ public class ItemThaumicInterfacer extends Item {
 
     public ItemThaumicInterfacer() {
         setCreativeTab(TabBotanicThaumaturgy.tabBotanicThaumaturgy);
-        setUnlocalizedName("ItemThaumicInterfacer");
+        setUnlocalizedName("ItemBotanicInterfacer");
     }
 
     @Override
